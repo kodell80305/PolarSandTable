@@ -1,5 +1,8 @@
 **Sand Table V2: Quick & Dirty Summary**
 
+![image](https://github.com/user-attachments/assets/59cb72d1-698b-4071-9657-963adc26ed64)
+
+
 * **What is it?** Build notes for version 2 of a sand table project. Think of it as a robotic Etch-a-Sketch but with sand\!  
 * **Table Base:**  
   * Built cheap-ish using MDF, a pine circle, and PVC.  
