@@ -1,0 +1,45 @@
+# Visual Studio files and folders
+*.suo
+*.user
+*.sln
+*.csproj
+*.vcxproj
+*.vcxproj.filters
+*.obj
+*.exe
+*.dll
+*.pdb
+*.idb
+*.cache
+*.vssscc
+*.vspscc
+[Dd]ebug/
+[Rr]elease/
+ipch/
+_ReSharper*/
+*.DotSettings.user
+
+# Python-specific files and folders
+__pycache__/
+*.pyc
+*.pyd
+*.egg-info/
+dist/
+build/
+env/
+venv/
+*.log
+
+# Remote shell files (adjust as needed)
+*.swp
+*.swo
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# General ignores
+# If you have specific data or configuration files you don't want to track, add them here
+# Example:
+# my_secret_config.ini
