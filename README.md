@@ -1,3 +1,6 @@
+
+I'm keeping this for my own use, but I'm going to start over with "3-in-1 robot" project and develop a fully parameterized rotational platform.
+
 **Sand Table V2: Quick & Dirty Summary**
 
 ![image](https://github.com/user-attachments/assets/59cb72d1-698b-4071-9657-963adc26ed64)
